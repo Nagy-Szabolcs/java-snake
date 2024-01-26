@@ -1,2 +1,4 @@
-# java-snake
-A simple snake game in Java using JPanel
+# Java-Snake-Game
+Snake game in java
+
+![Snake game screenshot](snake.png)
